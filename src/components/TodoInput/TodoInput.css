@@ -1,0 +1,24 @@
+
+.todo_input{
+    width: 350px;
+    height: 30px;
+    border-radius: 15px;
+    border: 2px dotted blueviolet;
+    color: blueviolet;
+}
+.btn{
+    width: 60px;
+    height: 35px;
+    border-radius: 15px;
+    border: 2px dotted blueviolet;
+    color: blueviolet;
+    background-color: white;
+}
+.btn:hover{
+    width: 60px;
+    height: 35px;
+    border-radius: 15px;
+    border: 2px dotted white;
+    color: white;
+    background-color: blueviolet;
+}
